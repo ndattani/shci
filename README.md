@@ -27,7 +27,7 @@ Many software packages can generate `FCIDUMP`, such as [`PySCF`](https://github.
 ## Configurations
 
 This program should be regarded as a preliminary research program rather than a fully tested catch-all software package.
-The efficiency and correctness of any edge cases, any configurations significantly from the default values or values in published papers, are not garenteed.
+The efficiency and correctness of any edge cases, any configurations significantly from the default values or values in published papers, are not guaranteed.
 If you are interested in working with us or sponsoring us to adapt this program for a particular use case, please contact professor Cyrus Umrigar <CyrusUmrigar@cornell.edu>.
 
 ### General
